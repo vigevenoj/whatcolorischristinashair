@@ -4,6 +4,6 @@ html {
 }
 body {
   min-height: 100%;
-  background-color: #404e7f;
+  background: linear-gradient(to bottom, #01B48F 30%, #31A994 50%, #1B2D49);
 }
 
